@@ -1,6 +1,6 @@
 # sinch-challenges
 
-## Challenge proposed by Sinch to answer some business questions regarding a chatbot service.
+## Challenge proposed by Sinch to answer business questions regarding a chatbot service.
 
 1. To check the solution just run the jupyter notebook in Google Colab:
    ```
